@@ -1,4 +1,36 @@
+# IntelliJ IDEA
 .idea/
-out/
-*.class
 *.iml
+out/
+
+# Compiled Java class files
+*.class
+
+# Logs
+*.log
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Maven
+target/
+
+# Gradle
+.gradle/
+build/
+
+# JetBrains caches
+.idea/**/workspace.xml
+.idea/**/tasks.xml
+.idea/**/usage.statistics.xml
+.idea/**/dictionaries
+.idea/**/shelf
+
+# IntelliJ project files
+.idea/**/modules.xml
+.idea/**/navEditor.xml
+.idea/**/modules.xml
+
+# Java package temporary
+*.jar
